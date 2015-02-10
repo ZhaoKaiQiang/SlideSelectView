@@ -2,7 +2,7 @@
 
 这是一个滑动选择器，类似于SeekBar的效果
 
-#![Alt](http://ww4.sinaimg.cn/large/005X3pXmjw1ep4e5egjivj30ak0j1q3b.jpg)
+![](http://ww3.sinaimg.cn/large/005X3pWTjw1ep4ewwlnbtg30a00hs4o2.gif)
 
 #About Me
 ![header](http://avatar.csdn.net/C/6/8/1_bz419927089.jpg)
