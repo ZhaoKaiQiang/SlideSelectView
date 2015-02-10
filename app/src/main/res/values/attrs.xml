@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SlideSelectView">
+        <attr name="circleCount" format="integer"></attr>
+        <attr name="textSize" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
